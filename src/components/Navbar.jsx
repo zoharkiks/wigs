@@ -50,10 +50,10 @@ const Navbar = () => {
       </div>
 
       <div className="flex space-x-10 text-[17px] lg:text-[15px] md:hidden  ">
-        <h3 className="font-circular ">products</h3>
-        <h3 className="font-circular ">story</h3>
-        <h3 className="font-circular ">manufacturing</h3>
-        <h3 className="font-circular ">packaging</h3>
+        <h3 className="font-circular cursor-pointer hover:border-b-2 border-yellow-400">products</h3>
+        <h3 className="font-circular cursor-pointer hover:border-b-2 border-yellow-400 ">story</h3>
+        <h3 className="font-circular cursor-pointer hover:border-b-2 border-yellow-400">manufacturing</h3>
+        <h3 className="font-circular cursor-pointer hover:border-b-2 border-yellow-400 ">packaging</h3>
         <div className="flex items-center space-x-[25px]">
           <Icon icon={cartOutline} className="h-6 w-6 cursor-pointer" />
           <Icon icon={accountIcon} className="h-6 w-6 cursor-pointer" />

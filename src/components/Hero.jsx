@@ -15,7 +15,6 @@ const Hero = () => {
   return (
     <main className="hero grid grid-cols-12 grid-rows-2 gap-5  p-12 md:grid-cols-4 sm:p-6 relative">
       
-      {/* <Icon icon={chevronRightCircleOutline} className='h-10 w-10 top-[30rem] left-0 hidden absolute md:block  ' /> */}
 
       <div className="flex flex-col col-span-6 space-y-[19px]">
         <Offer1 />

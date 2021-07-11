@@ -11,18 +11,18 @@ const Sidebar = () => {
  
       <h2 className="font-sofia text-[30px] mt-[48px]">Explore</h2>
       <div className="flex flex-col font-sofia text-[15.76px] space-y-7 mt-[44.24px] lg:text-[13.76px]">
-        <span>⚡ New In</span>
-        <span>👘 Clothing</span>
-        <span>👞 Shoes</span>
-        <span>👜 Accessories</span>
-        <span>🕺 Activewear</span>
-        <span>🎁 Gifts & Living</span>
-        <span>💎 Inspiration</span>
+        <span className='cursor-pointer'>⚡ New In</span>
+        <span className='cursor-pointer'>👘 Clothing</span>
+        <span className='cursor-pointer'>👞 Shoes</span>
+        <span className='cursor-pointer'>👜 Accessories</span>
+        <span className='cursor-pointer'>🕺 Activewear</span>
+        <span className='cursor-pointer'>🎁 Gifts & Living</span>
+        <span className='cursor-pointer'>💎 Inspiration</span>
       </div>
 
       <div className="flex mt-[300px] space-x-2 items-center xl:mt-[230px] lg:mt-[100px]">
         <Icon icon={chatIcon} />
-        <span className="font-sofia text-[15.76px]">Help Center</span>
+        <span className="font-sofia text-[15.76px] cursor-pointer">Help Center</span>
       </div>
     </sidebar>
   );
