@@ -7,7 +7,7 @@
 </p>
 
 ## Introduction 🚀
-An ecommerce site with a very simple design and poppy colors. Inspired by <a href="https://dribbble.com/shots/15438373-Wigs-Ecommerce-Website-UI">AR Shakir</a>
+A responsive ecommerce site with a very simple design and poppy colors. Inspired by <a href="https://dribbble.com/shots/15438373-Wigs-Ecommerce-Website-UI">AR Shakir</a>
 </p>
 
 <h3 align="left">Languages and Tools 💻 </h3>
